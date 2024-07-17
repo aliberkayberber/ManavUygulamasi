@@ -12,3 +12,4 @@
 /Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ManavUygulamasi.pdb
 /Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ManavUygulamasi.genruntimeconfig.cache
 /Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ref/ManavUygulamasi.dll
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ManavUygulamasi.sourcelink.json

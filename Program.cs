@@ -65,7 +65,7 @@ namespace ManavUygulamasi
                 System.Console.WriteLine("Seçtiğiniz meyvenin fiyatı: 4 TL");
                 break;
             }
-
+            //
         }
     }
 }
