@@ -1,1 +1,1 @@
-## if / else if ve switch - case kullanarak konsolda manav uygulamasidir.
+## if / else if ve switch - case kullanarak konsolda manav uygulamasidir. Kodun sonunda hangisinin daha efektif olduğu belirlirtilmiştir.
