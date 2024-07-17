@@ -65,7 +65,7 @@ namespace ManavUygulamasi
                 System.Console.WriteLine("Seçtiğiniz meyvenin fiyatı: 4 TL");
                 break;
             }
-            //
+            // Bu gibi durumlarda switch case yapısı daha kullanışlı oluyor. If else yapısında teker teker tüm koşulları karşılaştırıyor ve bu bize zaman kaybına neden oluyor. Hız olarak switch case daha hızlıdır if else yapısına göre
         }
     }
 }
