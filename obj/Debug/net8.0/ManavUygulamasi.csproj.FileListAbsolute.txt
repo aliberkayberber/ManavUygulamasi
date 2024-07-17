@@ -1,0 +1,14 @@
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/bin/Debug/net8.0/ManavUygulamasi
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/bin/Debug/net8.0/ManavUygulamasi.deps.json
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/bin/Debug/net8.0/ManavUygulamasi.runtimeconfig.json
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/bin/Debug/net8.0/ManavUygulamasi.dll
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/bin/Debug/net8.0/ManavUygulamasi.pdb
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ManavUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ManavUygulamasi.AssemblyInfoInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ManavUygulamasi.AssemblyInfo.cs
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ManavUygulamasi.csproj.CoreCompileInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ManavUygulamasi.dll
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/refint/ManavUygulamasi.dll
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ManavUygulamasi.pdb
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ManavUygulamasi.genruntimeconfig.cache
+/Users/aliberkayberber/Documents/Pratikler/ManavUygulamasi/obj/Debug/net8.0/ref/ManavUygulamasi.dll

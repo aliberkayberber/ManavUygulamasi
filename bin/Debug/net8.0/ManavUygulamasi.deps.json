@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ManavUygulamasi/1.0.0": {
+        "runtime": {
+          "ManavUygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManavUygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

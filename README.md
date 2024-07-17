@@ -1,0 +1,1 @@
+## if / else if ve switch - case kullanarak konsolda manav uygulamasidir.
